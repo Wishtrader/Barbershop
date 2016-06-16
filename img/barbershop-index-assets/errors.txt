@@ -1,1 +1,1 @@
-[Wed Jun 08 2016 00:14:08 GMT+0300 (Беларусь (зима))] layer "htmlacademy.ru": Unsupported extension: ru
+[Thu Jun 16 2016 17:38:07 GMT+0300 (Беларусь (зима))] layer "htmlacademy.ru": Unsupported extension: ru
